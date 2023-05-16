@@ -6,7 +6,7 @@ Thanks to bootstrap.
 
 ## Link
 
-You can click over the website or copy the link on the Right side 👉
+You can click over the website or copy the link on the Right side 👉 https://github.com/JeevanK28/personal-website.git
 
 
 # Feedback
